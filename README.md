@@ -27,3 +27,10 @@ One notable challenge during development was implementing real-time SMS notifica
 
 ## Demonstrated Knowledge and Skills
 The successful implementation of user authentication and database integration components showcased my knowledge and skills in backend development and API integration. By designing a robust and secure authentication system and seamlessly integrating database operations, I demonstrated proficiency in full-stack development and delivering scalable, reliable applications.
+ <img src="app.png" alt="mobile app" width="400"/>
+ <br>
+ <img src="register.png" alt="mobile app" width="400"/>
+ <br>
+ <img src="add new item.png" alt="mobile app" width="400"/>
+ <br>
+ <img src="inventory .png" alt="mobile app" width="400"/>
